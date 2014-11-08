@@ -46,7 +46,7 @@ hi default link InformaticaORAError	ErrorMsg
 hi default link InformaticaError	ErrorMsg
 hi default link InformaticaSQL		Constant
 
-let b:current_syntax = "PowerCenterLogFilFilee"
+let b:current_syntax = "PowerCenterLogFile"
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
